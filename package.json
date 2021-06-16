@@ -1,0 +1,27 @@
+{
+  "name": "node.js-npm-webpack-9module-theory",
+  "version": "1.0.0",
+  "description": "NPM basics",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liana13555/node.js-npm-webpack-9module-theory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liana13555/node.js-npm-webpack-9module-theory/issues"
+  },
+  "homepage": "https://github.com/liana13555/node.js-npm-webpack-9module-theory#readme",
+  "dependencies": {
+    "joi": "^17.4.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
